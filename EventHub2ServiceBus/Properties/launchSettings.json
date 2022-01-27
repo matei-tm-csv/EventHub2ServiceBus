@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EventHub2ServiceBus": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7074 "
+    }
+  }
+}
