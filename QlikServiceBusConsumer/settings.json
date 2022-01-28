@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureQlikServiceBus": "Endpoint=sb://youservicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=*********",
+    "AzureQlikEventHub": "Endpoint=sb://youreventhub.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=*************",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
